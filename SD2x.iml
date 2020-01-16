@@ -11,5 +11,6 @@
     <orderEntry type="library" name="junit-dist" level="project" />
     <orderEntry type="library" name="homework2-tests" level="project" />
     <orderEntry type="library" name="homework3-tests" level="project" />
+    <orderEntry type="library" name="homework4-tests" level="project" />
   </component>
 </module>
