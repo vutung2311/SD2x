@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="homework6-tests">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/libs/homework6-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HomeWork6/libs/homework6-tests.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

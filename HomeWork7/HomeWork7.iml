@@ -7,5 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="homework7-tests" level="project" />
+    <orderEntry type="library" name="junit-dist" level="project" />
   </component>
 </module>

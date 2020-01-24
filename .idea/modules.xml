@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SD2x.iml" filepath="$PROJECT_DIR$/SD2x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork1/HomeWork1.iml" filepath="$PROJECT_DIR$/HomeWork1/HomeWork1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork2/HomeWork2.iml" filepath="$PROJECT_DIR$/HomeWork2/HomeWork2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork3/HomeWork3.iml" filepath="$PROJECT_DIR$/HomeWork3/HomeWork3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork4/HomeWork4.iml" filepath="$PROJECT_DIR$/HomeWork4/HomeWork4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork5/HomeWork5.iml" filepath="$PROJECT_DIR$/HomeWork5/HomeWork5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork6/HomeWork6.iml" filepath="$PROJECT_DIR$/HomeWork6/HomeWork6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork7/HomeWork7.iml" filepath="$PROJECT_DIR$/HomeWork7/HomeWork7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork8/HomeWork8.iml" filepath="$PROJECT_DIR$/HomeWork8/HomeWork8.iml" />
     </modules>
   </component>
 </project>
